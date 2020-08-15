@@ -1,0 +1,4 @@
+github.com/brianvoe/gofakeit v3.18.0+incompatible h1:wDOmHc9DLG4nRjUVVaxA+CEglKOW72Y5+4WNxUIkjM8=
+github.com/brianvoe/gofakeit v3.18.0+incompatible/go.mod h1:kfwdRA90vvNhPutZWfH7WPaDzUjz+CZFqG+rPkOjGOc=
+github.com/caser/gophernews v0.0.0-20150107061403-f17255d5b792 h1:yWTZbMC92aSFyZm+f7iJTrLdV2Q3eEIreRoYmJE86lk=
+github.com/caser/gophernews v0.0.0-20150107061403-f17255d5b792/go.mod h1:XAJyumv6flVGfp36Ii0+4mjkLLHZYlu+osSOpgsLHLs=
